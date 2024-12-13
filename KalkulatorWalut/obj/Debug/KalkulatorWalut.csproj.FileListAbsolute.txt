@@ -1,0 +1,10 @@
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\bin\Debug\KalkulatorWalut.exe.config
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\bin\Debug\KalkulatorWalut.exe
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\bin\Debug\KalkulatorWalut.pdb
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\bin\Debug\Newtonsoft.Json.dll
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\bin\Debug\Newtonsoft.Json.xml
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\obj\Debug\KalkulatorWalut.csproj.AssemblyReference.cache
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\obj\Debug\KalkulatorWalut.csproj.CoreCompileInputs.cache
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\obj\Debug\Kalkulat.8EFBFF6E.Up2Date
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\obj\Debug\KalkulatorWalut.exe
+S:\Programowanie oprogramowania\KalkulatorWalut\KalkulatorWalut\obj\Debug\KalkulatorWalut.pdb
